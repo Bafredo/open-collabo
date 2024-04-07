@@ -3,7 +3,7 @@ const Fredrick = {
     firstname: "Fredrick",
     lastname: "Muyoma",
     email: "muyomafredrick@gmail.com",
-    role: "Developer 😅",
+    role: "Dev 😅",
     skills: ["HTML5", "CSS3","Js", "GiT","React","TailWind","NodeJS","Pyhton-ML","mySQL"],
     socials: [
       {
